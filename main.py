@@ -1,7 +1,7 @@
 import random
 debut = True
 while debut:
-    nonb_odinate = random.randint(0, 10)
+    nonb_odinate = random.randint(0, 500)
     chans = 5
     while chans > 0:
         print("=======Jwenn nonb kache a=====")
